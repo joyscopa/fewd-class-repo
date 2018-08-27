@@ -8,7 +8,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|August 21st| Project Description | Incomplete
+|August 21st| Project Description | A design system for my company examples:https://design.trello.com/ https://atlassian.design/
 |August 28th| Wireframes / Priority Matrix / Functional Components | Incomplete
 |Sep 4th| External API(s) Decision / Core Application Structure (HTML, CSS, etc.) | Incomplete
 |Sep 11th| Minimal Viable Product | Incomplete
