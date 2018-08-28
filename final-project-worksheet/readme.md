@@ -22,7 +22,11 @@ Use this section to describe your final project and perhaps any links to relevan
 
 ## Wireframes
 
-Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
+https://res.cloudinary.com/dgbu2h7gk/image/upload/v1535471651/Design_System_Wire_v1.jpg
+
+https://res.cloudinary.com/dgbu2h7gk/image/upload/v1535471651/Design_System_Wire_v2.png
+
+So, this is going to be a fairly monstrous project that I'll be able to spend time on while im at work, but for the purpose of the final project I'm thinking I can tackle the initial screen that shows a either a nav or cards representing each section and then those would expand to sub sections. Also thought it would be cool to have some kind of simple transition on that home screen.ie. https://design.trello.com/ 
 
 ## Priority Matrix
 
