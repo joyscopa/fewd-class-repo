@@ -34,11 +34,17 @@ So, this is going to be a fairly monstrous project that I'll be able to spend ti
 
 ## Priority Matrix
 
-Include a full list of features that have been prioritized based on the `Time and Importance` Matix.  
+Include a full list of features that have been prioritized based on the `Time and Importance` Matix.
+https://codepen.io/joyscopa/pen/ZMBEwQ?editors=1000
+icons and top nav for primary categories included in the design system
+build out at least one category
+background color switcher
+Hover animation on category icons
 
 ### MVP/PostMVP - 5min
 
-The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
+The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.
+Each subsequent category and sub categories for all platforms included in the design system
 
 #### MVP 
 
