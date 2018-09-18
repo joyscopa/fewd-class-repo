@@ -48,14 +48,14 @@ Each subsequent category and sub categories for all platforms included in the de
 
 #### MVP 
 
-- Find and use external api 
+- Style home screen and templates for each "section" 
 - Render data on page 
-- Allow user to choose favorites 
-- Save their choices in firebase
+- Allow user to click on and close out of sections 
+- Begin build out of "style" and "color"
 
 #### PostMVP 
 
-- Add user auth
+- complete all sections, subsections, add all design components 
 
 ## Functional Components
 
